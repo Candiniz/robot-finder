@@ -1,0 +1,24 @@
+h1 {
+    font-family: 'SEGA LOGO FONT', sans-serif;
+    font-weight: 100;
+    color: white;
+}
+
+h3 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 30px;
+    margin-top: -20px;
+    color: white;
+}
+
+h5 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    margin-top: -1px;
+    color: white;
+}
+
+@font-face {
+    font-family: 'SEGA LOGO FONT';
+    src: url('SEGA.TTF');
+}
