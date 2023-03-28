@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robot-finder/static/css/main.017fa3c2.css",
+    "main.js": "/robot-finder/static/js/main.33a239d7.js",
+    "static/js/787.01ecde32.chunk.js": "/robot-finder/static/js/787.01ecde32.chunk.js",
+    "static/media/SEGA.TTF": "/robot-finder/static/media/SEGA.8a619f32417a0fe72728.TTF",
+    "index.html": "/robot-finder/index.html",
+    "main.017fa3c2.css.map": "/robot-finder/static/css/main.017fa3c2.css.map",
+    "main.33a239d7.js.map": "/robot-finder/static/js/main.33a239d7.js.map",
+    "787.01ecde32.chunk.js.map": "/robot-finder/static/js/787.01ecde32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.017fa3c2.css",
+    "static/js/main.33a239d7.js"
+  ]
+}
